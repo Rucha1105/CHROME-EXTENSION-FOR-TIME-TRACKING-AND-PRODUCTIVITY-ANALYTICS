@@ -179,4 +179,8 @@ Develop a Chrome extension that tracks the time users spend on different website
     - Package the extension and publish it on the Chrome Web Store.
 
    - Deploy the backend server on a cloud platform (e.g., Heroku, AWS).
+  
+#OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/57d55f4e-300f-41b5-a98c-b1dc89b5c5a3)
 
